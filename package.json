@@ -1,6 +1,6 @@
 {
   "name": "@128technology/darsain-tooltip",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": false,
   "description": "Version of darsain tooltip library, packaged for private NPM repository",
   "homepage": "https://github.com/128technology/tooltip",
