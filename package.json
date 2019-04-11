@@ -1,16 +1,17 @@
 {
   "name": "@128technology/darsain-tooltip",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "private": false,
   "description": "Version of darsain tooltip library, packaged for private NPM repository",
   "homepage": "https://github.com/128technology/tooltip",
-  "main": "index.js",
+  "main": "dist/index.js",
   "types": "index.d.ts",
   "author": "Tomas Sardyha",
   "license": "MIT",
   "files": [
     "index.d.ts",
     "index.js",
-    "tooltip.css"
+    "tooltip.css",
+    "dist/index.js"
   ]
 }

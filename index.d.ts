@@ -1,4 +1,6 @@
 declare class Tooltip {
+  element: Element;
+  hidden: boolean;
   constructor(content?: string | Element, options?: any);
 
   content(content: string | Element): Tooltip;
